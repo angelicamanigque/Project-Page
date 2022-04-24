@@ -59,12 +59,8 @@ p{
 }
 
 h3{
-  text-align: center;
+  text-align: left;
   background-color: #ddd;
   margin-right: 60px;
   padding-top: 45px;
-}
-
-footer{
-  text-align: center;
 }
