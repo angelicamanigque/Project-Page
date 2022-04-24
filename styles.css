@@ -10,12 +10,10 @@ header{
 }
 
 .icon{
-    border-radius: 25px;
     width:12em;
     height:12em;
     margin-left:60px;
     margin-right: 60px;
-    float:left;
     padding-top:15px;
     padding-bottom:15px;
 }
@@ -65,4 +63,8 @@ h3{
   background-color: #ddd;
   margin-right: 60px;
   padding-top: 45px;
+}
+
+footer{
+  text-align: center;
 }
