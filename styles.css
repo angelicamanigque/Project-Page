@@ -9,8 +9,15 @@ header{
     text-align: center;
 }
 
-img{
+.icon{
     border-radius: 25px;
+    width:12em;
+    height:12em;
+    margin-left:60px;
+    margin-right: 60px;
+    float:left;
+    padding-top:15px;
+    padding-bottom:15px;
 }
 
 html{
@@ -42,14 +49,20 @@ html{
   color: black;
 }
 
-
-h4 {
-  margin-left: 70px;
-  margin-right: 70px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+p{
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
-p{
+.desc{
+  background-color: #ddd;
+  text-align:right;
+}
+
+h3{
   text-align: center;
+  background-color: #ddd;
+  margin-right: 60px;
+  padding-top: 45px;
 }
